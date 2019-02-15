@@ -1,0 +1,12 @@
+@charset "utf-8"
+
+.links {
+  margin: 0 auto;
+  width: 300px;
+  background-color: #ccc;
+}
+
+.links a {
+  display: block;
+  color: #000;
+}

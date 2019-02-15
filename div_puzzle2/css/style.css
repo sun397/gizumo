@@ -1,0 +1,69 @@
+header .wrapper {
+  background-color: #141f40;
+  width: 400px;
+  height: 100px
+}
+
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+
+main .wrapper{
+  float: left;
+  background-color: #80bfa8;
+  width: 150px;
+  height: 250px;
+}
+
+main .wrapper1{
+  float: left;
+  width: 250px;
+  height: 250px;
+}
+
+main .wrapper2p{
+  background-color: #8c2727;
+  width: 250px;
+  height: 100px;
+}
+
+
+main .wrapper2{
+  width: 250px;
+  height: 150px;
+}
+
+main .wrapper3{
+  float: left;
+  width: 150px;
+  height: 150px;
+}
+
+main .wrapper3p{
+  float: left;
+  background-color: #ff9e6b;
+  width: 100px;
+  height: 150px;
+}
+
+
+main .wrapper4{
+  background-color: #dbd400;
+  width: 150px;
+  height: 50px;
+}
+
+main .wrapper4p{
+  background-color: #0093b7;
+  width: 150px;
+  height: 100px;
+}
+
+footer .wrapper {
+  background-color: #d98d30;
+  width: 400px;
+  height: 100px;
+}

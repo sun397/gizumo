@@ -1,0 +1,35 @@
+body{
+  width: auto;
+}
+header .wrapper {
+  background-color: #141f40;
+  width: 400px;
+  height: 100px
+}
+
+.clearfix:after {
+  display: block;
+  content: "";
+  clear: both;
+}
+
+
+main .wrapper{
+  float: left;
+  background-color: #80bfa8;
+  width: 150px;
+  height: 250px;
+}
+
+main .wrapper1{
+  float: left;
+  background-color: #8c2727;
+  width: 250px;
+  height: 250px;
+}
+
+footer .wrapper {
+  background-color: #d98d30;
+  width: 400px;
+  height: 100px;
+}
